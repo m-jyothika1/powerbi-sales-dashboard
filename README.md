@@ -9,4 +9,4 @@ An interactive sales dashboard built in Power BI for regional sales analysis. In
 
 ## Files Included
 - `sales_dashboard.pbix`: Power BI file
-- Sample dataset (link or embedded)
+- Sample dataset
